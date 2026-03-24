@@ -1,0 +1,41 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: #e6e6e6;
+margin: 0;
+padding: 40px;
+}
+.main-title {
+color: #8b0000;
+font-size: 42px;
+margin-bottom: 30px;
+}
+.content-wrapper {
+display: flex;
+gap: 40px;
+}
+.left-panel {
+width: 40%;
+}
+.left-panel img {
+width: 100%;
+}
+.right-panel {
+width: 60%;
+}
+.intro {
+margin-bottom: 20px;
+line-height: 1.6;
+}
+.section-title {color: #008000;
+font-size: 30px;
+margin-bottom: 15px; 
+}
+.right-panel p{
+line-height: 1.6;
+margin-bottom: 20px;
+}
+.continue-link {
+color: red;
+text-decoration: none;
+font-weight: bold;
+}
